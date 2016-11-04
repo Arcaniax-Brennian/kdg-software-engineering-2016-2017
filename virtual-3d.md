@@ -39,8 +39,8 @@
 	- github: https://github.com/naam/software-engineering-oplossingen.git
 
 - Dom Lesley
-	- e-mailadres: naam@student.kdg.be
-	- github: https://github.com/naam/software-engineering-oplossingen.git
+	- e-mailadres: lesley.dom@student.kdg.be
+	- github: https://github.com/Arcaniax-Brennian/oplossingen-software-engineering.git
 
 - Eysermans Stijn
 	- e-mailadres: naam@student.kdg.be
